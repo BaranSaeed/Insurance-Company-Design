@@ -1,0 +1,248 @@
+header{
+	background-color: white;
+	
+	
+}
+
+/* New Navbar Des*/
+.navbar {
+    margin-bottom: 0;
+    background-color: #0C1B2E;
+    z-index: 9999;
+    border: 0;
+    font-size: 14px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 2px;
+    border-radius: 0;
+}
+/*.navbar li a, .navbar*/ .navbar-brand {
+    color: #fff !important;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #0C1B2E !important;
+    background-color: #fff !important;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #fff !important;
+}
+/* nav end new*/
+
+.dropdown-menu li a{
+	color: #0C1B2E;
+	background-color: white;
+	width: 300px;
+}
+
+.dropdown-menu li a:hover{
+	background-color: #E6E6E6 !important;
+}
+
+.dropdown:hover .dropdown-menu{
+	display: block;
+
+}
+
+/* Center align the text within the three columns below the Slider */
+
+.marketing {
+	margin-top: 150px;
+	text-align: center;
+}
+
+.whychooseus{
+	padding-top: 80px;
+	text-align: center;
+}
+
+#foot{
+	margin-top: 50px;
+	background-color: #09182B;
+	height: 300px;
+	width: auto;
+	padding-top: 60px;
+}
+
+
+.footerlinks li{
+	display: inline;
+	padding-left: 60px;
+	font-size: 12px;
+
+}
+
+.footerlinks a{
+	text-decoration: none;
+	color: white;
+}
+
+footer{
+	margin-top: 180px;
+	color: white;
+}
+
+#form {
+	text-align: center;
+	background-color: gray;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#txtarea{
+	margin-left: 60px;
+}
+
+#btnsubmit{
+	margin-right: 70px;
+
+}
+
+#contact{
+	padding-top: 100px;
+	height: 460px;
+}
+
+body{
+	background-color: #F5F5F5;
+	margin: 0px;
+	padding: 0px;
+}
+
+.car-insu{
+	height: 1500px;
+	padding-top: 100px;
+	padding-left: 20px;
+}
+
+.car-insu hr{
+	border: solid #e8edee;
+    border-width: 1px 0 0;
+    clear: both;
+    margin: 14px 0 25px;
+    height: 0;
+}
+
+#two-wheerler{
+	height: 1500px;
+	padding-top: 100px;
+	padding-left: 20px;
+}
+
+#liability-only{
+	height: 1500px;
+	padding-top: 100px;
+	padding-left: 20px;
+}
+
+#tips{
+	height: 1500px;
+	padding-top: 100px;
+	padding-left: 20px;
+}
+
+#tracker{
+	height: 2000px;
+	padding-left: 20px;
+}
+
+#tracker img{
+	padding-top: 60px;
+	width: 100%;
+
+}
+
+#zurich{
+	height: 2400px;
+	padding-top: 100px;
+	padding-left: 20px;
+}
+
+#zurich-content{
+	margin-top: 50px;
+	padding-top: 100px;
+	padding-left: 20px;
+	border-radius: 5px;
+	width: auto;
+	background-color: #E6E6E6;
+	height: 300px;
+
+}
+
+#zurich-content a{
+	text-decoration:none;
+}
+
+.zurich-content{
+	margin-top: 50px;
+	padding-top: 30px;
+	padding-left: 20px;
+	border-radius: 5px;
+	width: 450px;
+	background-color: #E6E6E6;
+	height: 450px;
+	border-radius: 5px;
+}
+
+.rates{
+	padding-left: 20px;
+	width: auto;
+	height: 1100px;
+	background-color: #E6E6E6;
+	border-radius: 5px;
+}
+
+.rates img{
+	border-radius: 5px;
+	padding-left: 6px;
+	padding-top: 6px;
+}
+
+.rates a{
+	text-decoration: none;
+}
+
+.wesell{
+	height: 2200px;
+	padding-top: 100px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.about-us{
+	height: 1000px;
+	padding-top: 100px;
+	padding-left: 20px;
+	padding-right: 20px;
+	
+}
+
+#about-us-content{
+	text-align: center;
+	background-color: #E6E6E6;
+	height: 500px;
+	border-radius: 5px;
+}
+
+#about-us-content h2{
+	padding-top: 20px;
+	padding-right: 20px;
+}
+
+.united{
+	height: 1500px;
+	padding-top: 100px;
+	padding-left: 20px;
+}
+
+.esurance{
+	height: 1500px;
+	padding-top: 100px;
+	padding-left: 20px;
+}
+
+
+textarea{
+	border-radius: 2%;
+}
